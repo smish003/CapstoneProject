@@ -122,3 +122,49 @@ In this phase below steps are been carried out:
 * To clean the dataset, I initiated by clustering the data with Cluster and Edit technique to identify discrepancies in the data for the Provider Name column. Following that, I cross-checked the Provider Name on the internet to ensure their validity. The Clustering of data was been done using different methods and Keying Function.
 
 <img width="749" alt="4" src="https://user-images.githubusercontent.com/89666159/226546295-e3514115-0608-4d2b-80b4-470666927b35.png">
+
+### Phase-3 (Patients Leaving California Hospitals Against Medical Advice (AMA))
+
+In this phase, No data cleaning was required as the data collected was already in an appropriate format and contained no inconsistencies, redundancies, or irrelevant data. Therefore, the data was suitable for the research study, and there was no need for any additional data cleaning.Moreover, it ensures that the research study is founded on dependable and precise data, resulting in more resilient and reliable research outcomes.
+
+### Phase-4 (Comprehensive list of approved cancer medications created by the Anticancer Fund)
+
+In this phase, No data cleaning was required as the data collected was already in an appropriate format and contained no inconsistencies, redundancies, or irrelevant data. Therefore, the data was suitable for the research study, and there was no need for any additional data cleaning.Moreover, it ensures that the research study is founded on dependable and precise data, resulting in more resilient and reliable research outcomes.
+
+### Phase-5 (Financial Burden of Cancer Care)
+
+In this phase, the data regarding healthcare expenses in the United States has been classified in two ways.
+ * National Expenditure
+    * Medical Services
+    * Prescription Drugs
+    * Total Cost
+ * Per-Patient Cost
+    * Medical Services
+    * Oral Prescription Drugs
+ The given dataset does not require any essential cleansing since it is already in an appropriate format and can be directly utilized for the research study.
+ 
+ ### Phase-6 (Effects of COVID-19 on Hospital Utilization Trends)
+ 
+ In this phase, the given data has been classified into various categories:
+ * Hospital Utilization Trends
+ * In Hospital Mortality Trends By Secondary Diagnosis
+ * In Hospital Moratlity Trends By Diagnosis Type
+ * In Hospital Moratlity Trends By Health Category
+ * Utilization Trends By Health Category
+
+Each of these categories were cleaned seperately as shown below:
+
+#### Hospital Utilization Trends
+* Firstly, Splitting the Date Column in Month and Year Seperately as Date Column contains both value.
+<img width="959" alt="1" src="https://user-images.githubusercontent.com/89666159/226555046-7d70048c-9a4f-48cb-bd31-374b55595ea1.png">
+
+* After splitting the data into Date 1 and Date 2, the column was renamed as Month and Year, respectively.
+<img width="911" alt="4" src="https://user-images.githubusercontent.com/89666159/226556091-b44f06ae-8622-4c18-a688-136605028127.png">
+
+ * Finally the Month and Year Columns values was been replaced Using GREL expression as shown below:
+
+ <img width="959" alt="2" src="https://user-images.githubusercontent.com/89666159/226555081-8f565388-6ac9-4239-8fcc-12b4420b722d.png">
+ 
+ <img width="960" alt="3" src="https://user-images.githubusercontent.com/89666159/226555692-9ff53536-36a6-4f88-b5d3-fc6d5b1ddded.png">
+
+    
