@@ -155,6 +155,7 @@ In this phase, the data regarding healthcare expenses in the United States has b
 Each of these categories were cleaned seperately as shown below:
 
 #### Hospital Utilization Trends
+In this phase below steps are been carried out:
 * Firstly, Splitting the Date Column in Month and Year Seperately as Date Column contains both value.
 <img width="959" alt="1" src="https://user-images.githubusercontent.com/89666159/226555046-7d70048c-9a4f-48cb-bd31-374b55595ea1.png">
 
@@ -167,4 +168,64 @@ Each of these categories were cleaned seperately as shown below:
  
  <img width="960" alt="3" src="https://user-images.githubusercontent.com/89666159/226555692-9ff53536-36a6-4f88-b5d3-fc6d5b1ddded.png">
 
+  #### In Hospital Mortality Trends By Secondary Diagnosis
+  In this phase below steps are been carried out:
+  
+  * The unnecessary column named Date , which contains the month and year in it, was removed as we already have separate fields for each.
+ 
+  <img width="960" alt="1" src="https://user-images.githubusercontent.com/89666159/226556636-fdb710d5-a901-4a8a-aa0d-a05cb6a3453a.png">
+  
+ * Replacing Month Number with Month Name as shown below using GREL expression:
+ <img width="739" alt="3" src="https://user-images.githubusercontent.com/89666159/226557094-eaaa1253-c0b8-4e48-8dd0-98a0e4a6fb54.png">
+
+#### In Hospital Mortality Trends By Diagnosis Type
+ In this phase below steps are been carried out:
+* The unnecessary column named Date , which contains the month and year in it, was removed as we already have separate fields for each.
+
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/89666159/226557542-7239a696-18ab-4f88-b609-44d1fde9a9ca.png">
+
+* The values in the Month column were changed from month numbers to month names using the Text Facet Option.
+
+<img width="951" alt="2" src="https://user-images.githubusercontent.com/89666159/226557893-d8365e11-ca26-45bc-84fa-905228e68868.png">
+
+#### In Hospital Mortality Trends By Health Category
+ In this phase below steps are been carried out:
+ * Firstly, Splitting the Date Column in Month and Year Seperately as Date Column contains both value.
+ 
+<img width="955" alt="1" src="https://user-images.githubusercontent.com/89666159/226558252-48d91fc3-b420-4e19-b703-9d0eb369b90d.png">
+
+
+* After splitting the data into Date 1 and Date 2, the column was renamed as Month and Year, respectively.
+
+<img width="947" alt="2" src="https://user-images.githubusercontent.com/89666159/226558296-e0875693-a63f-4148-8aab-9716bfd9e7f7.png">
+
+* The values in the Month column were changed from month numbers to month names using the Text Facet Option.
+
+<img width="959" alt="3" src="https://user-images.githubusercontent.com/89666159/226558598-2af1b4a1-fe17-428a-be20-2633979f1dd2.png">
+
+#### Utilization Trends By Health Category
+ In this phase below steps are been carried out:
+  * Firstly, Splitting the Date Column in Month and Year Seperately as Date Column contains both value.
+  
+  <img width="960" alt="1" src="https://user-images.githubusercontent.com/89666159/226559187-5ed0bfb6-f26d-45d2-8cbd-aefb7edcd8c3.png">
+  
+* After splitting the data into Date 1 and Date 2, the column was renamed as Month and Year, respectively.
+
+<img width="959" alt="2" src="https://user-images.githubusercontent.com/89666159/226559300-af7985e8-9dd5-4a90-aea5-3b178e52d678.png">
+
+* Renaming Month Column values as Shown below:
+    * 18 - 2018
+    * 19 - 2019
+    * 20 - 2020
+    * 21 - 2021
     
+<img width="957" alt="3" src="https://user-images.githubusercontent.com/89666159/226559687-b8b92dee-7a21-4648-98b1-24f0bdbde9aa.png">
+
+  * Removed the unwanted rows *(i.e., 2 rows)* which doesn’t contains Month and Year information in it:
+  
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/89666159/226559899-ee4afd25-7df7-4a5d-b18f-d25504e1469e.png">
+
+* The values in the Month column were changed from Month Name Suffix to Full Month Name using the Text Facet Option.
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/89666159/226560487-1a2ceb4b-6eac-419c-a5b6-f7bc38e892b6.png">
+
+<img width="959" alt="6" src="https://user-images.githubusercontent.com/89666159/226560454-59e4bb05-c736-46a1-965f-fd42c76af050.png">
