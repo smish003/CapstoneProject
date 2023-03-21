@@ -101,3 +101,24 @@ In this phase below steps are been carried out:
 * After successfully completing the above operation, I used the Text Facet approach to remove the Statewide Hospital data from the dataset,as it was not relevant for the analysis.
 * Finally, I verified all the hospital names individually using the Text Facet feature.
 
+
+### Phase-2 (Hospital Characteristics List for California Providers in State Fiscal Year 2019-20)
+
+In this phase below steps are been carried out:
+
+* Transformed Provider name as Title case.
+
+<img width="959" alt="1" src="https://user-images.githubusercontent.com/89666159/226545077-196b1ace-4344-4ac5-a048-8c3ecf4f3ca8.png">
+<img width="959" alt="2" src="https://user-images.githubusercontent.com/89666159/226545078-09e8c7b7-a5b2-475b-8030-58b9d6789830.png">
+
+* Renamed all the columns as per the attached provided data dictionary:
+    * DPH as Designated Public Hospital
+    * NDPH as Non-Designated Public Hospital
+
+[Data-Dictionary for Phase-2](https://github.com/smish003/CapstoneProject/files/11025972/data-dictionary.csv)
+
+<img width="959" alt="3" src="https://user-images.githubusercontent.com/89666159/226546103-a19bb9d6-8e5d-46b6-b5b3-3dc10a7e9f0c.png">
+
+* To clean the dataset, I initiated by clustering the data with Cluster and Edit technique to identify discrepancies in the data for the Provider Name column. Following that, I cross-checked the Provider Name on the internet to ensure their validity. The Clustering of data was been done using different methods and Keying Function.
+
+<img width="749" alt="4" src="https://user-images.githubusercontent.com/89666159/226546295-e3514115-0608-4d2b-80b4-470666927b35.png">
