@@ -229,3 +229,13 @@ In this phase below steps are been carried out:
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/89666159/226560487-1a2ceb4b-6eac-419c-a5b6-f7bc38e892b6.png">
 
 <img width="959" alt="6" src="https://user-images.githubusercontent.com/89666159/226560454-59e4bb05-c736-46a1-965f-fd42c76af050.png">
+
+
+ ### Phase-7 (Advanced Stage Breast Cancer Among Women 40 Years and Older, by Medical Service Study Area (MSSA), California Counties, 2010-2014)
+
+For this phase, the dataset was downloaded from:  https://cdphdata.maps.arcgis.com/apps/webappviewer/index.html?id=8612fd4394784bdea7b0bdca5e34fc2e
+
+In this phase, No data cleaning was required as the data collected was already in an appropriate format and contained no inconsistencies, redundancies, or irrelevant data. Therefore, the data was suitable for the research study, and there was no need for any additional data cleaning.Moreover, it ensures that the research study is founded on dependable and precise data, resulting in more resilient and reliable research outcomes.
+
+ ### Phase-8 (Premise General Population COVID-19 Health Services Disruption Survey 2020)
+ 
