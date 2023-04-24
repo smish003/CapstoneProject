@@ -239,3 +239,98 @@ In this phase, No data cleaning was required as the data collected was already i
 
  ### Phase-8 (Premise General Population COVID-19 Health Services Disruption Survey 2020)
  
+ In this phase below steps are been carried out:
+ * Renaming the Columns name as per data dictionary
+    * observation_id - Observation ID
+    * submitted_time - Date and time survey was submitted
+    * gender - What is your gender?
+    * Age - What is your age?
+    * Geography - Where do you live?
+    * financial_situation - What is your current financial situation?
+    * Education -What is the highest level of schooling you have completed?
+    * employment_status	- What is your current employment status?
+    * Ethnicity -	What is your ethnicity?
+    * religion	- What is your religion?
+    * gp_hh -On average, in the last six months, how many members usually live in your household, counting yourself?
+    * gp_pre_provider_need	- During December-February, did you have a need to see a health provider?
+    * gp_pre_provider_condition -	What health condition(s) required you to see a health provider during December-February?
+    * gp_pre_provider_condition_other	- Specify the other condition that required you to see a health provider during December -February.
+    * gp_pre_provider_visit - Were you able to see a health provider during December-February?
+    * gp_pre_provider_where - Where did you see a health provider between February - December?
+    * gp_pre_provider_where_other	- Where else did you see a health provider between December - February?
+    * gp_pre_provider_num_visit -	How many times did you see a healthcare provider during December - February?
+    * gp_pre_provider_why- What was the reason you were not able to see a health provider during December-February?
+    * gp_pre_provider_why_other - Specify the other reason you were not able to see a health provider.
+    * gp_post_provider_need	- Since March, did you have a need to see a health provider?
+    * gp_post_provider_condition - What health condition(s) required you to see a health provider since March?
+    * gp_post_provider_condition_other - Specify the other condition that required you to see a health provider since March.
+    * gp_post_provider_visit - Were you able to see a health provider since March?
+    * gp_post_provider_where - Where did you see the health provider since March?
+    * gp_post_provider_where_other  - Where else did you see the healthcare provider since March? 
+    * gp_post_provider_num_visit  - How many times did you see a healthcare provider since March?
+    * gp_post_provider_why  - What was the reason you were not able to see a health provider since March?
+    * gp_post_provider_why_other  - For what other reason were you not able to see a health provider since March?
+    * gp_medication  - In the last 6 months, did you have a health condition that required you to take medication?
+    * gp_medication_condition  - What health condition(s) did you require medication for in the past six months?
+    * gp_pre_miss_dose  - During December-February, did you miss any doses of medication?
+    * gp_pre_num_miss_dose  - On average during a week, how many doses did you miss December - February?
+    * gp_pre_miss_dose_why  -   What was the reason you missed a dose of your medication December - February?
+    * gp_pre_miss_dose_why_other  - What was the other reason you missed a dose of your medication during December - February?
+    * gp_post_miss_dose  - Since March, did you miss any doses of medication?
+    * gp_post_num_miss_dose  - On average during a week, how many doses did you miss since March?
+    * gp_post_miss_dose_why  - What was the reason you missed a dose of your medication since March?
+    * gp_post_miss_dose_why_other  -  What was the other reason you missed a dose of your medication since March?
+    * gp_post_labor_force  - Last week, did you do any work for pay, do any kind of business, farming or other activity to generate income, even if only for one hour?
+    * gp_pre_labor_force  - Were you working during December-February?
+    * gp_unemployment_why  - What was the main reason you stopped working?
+    * gp_unemployment_why_other  - What was the other reason you stopped working?
+    * gp_pre_income  -  During December-February, what was your personal average income in a month?
+    * gp_post_income  - Since March, what was your personal average income in a month?weight  - Survey weight
+    * country - Country
+    * user_id - User ID
+
+
+**Note:** *Date and time survey was submitted column was splited into Date, Time, and Time Zone column respectively.*
+
+<img width="959" alt="1" src="https://user-images.githubusercontent.com/89666159/233909404-d3362b3b-9008-4e2f-8502-3f44b32698dc.png">
+
+* As the time zone column only consist of value as UTC which is Universal Time Coordinated (UTC). So, removing that column as its not needed for the analysis.
+* Renamed Age column values using text facet as below:
+
+<img width="212" alt="2" src="https://user-images.githubusercontent.com/89666159/233909604-b18923fe-8f24-4d87-ad96-3cbd1d05fcf7.png">
+
+   * 16 to 25 years old - 16-25
+   * 26 to 35 years old - 26-35
+   * 36 to 45 years old - 36-45
+   * Over 45 years old - 45+
+
+Removing the blank fields from the gender column.
+
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/89666159/233910059-4ae11d0a-c2aa-4fb6-a310-af396cfd69d2.png">
+
+Since we have an ethnicity column, we can eliminate the religion column as it is not relevant to our study.
+
+<img width="957" alt="4" src="https://user-images.githubusercontent.com/89666159/233910274-a2b37b64-866d-4537-96d7-1cc18335247f.png">
+
+The column 'Specify the other condition that required you to see a health provider during December-February' only has two values - 'XXXX' and blank - which are not necessary for the study. Therefore, they will be removed.
+
+<img width="959" alt="5" src="https://user-images.githubusercontent.com/89666159/233910385-8342b982-4c50-405c-b41f-d8371e082a63.png">
+
+Removing unwanted column:
+
+1.	What is your current financial situation?
+2.	Where else did you see a health provider between December - February?
+3.	Specify the other reason you were not able to see a health provider?
+4.	Specify the other condition that required you to see a health provider since March
+5.	Where else did you see the healthcare provider since March?
+6.	For what other reason were you not able to see a health provider since March?
+7.	What was the other reason you missed a dose of your medication during December - February?
+8.	What was the other reason you missed a dose of your medication since March?
+9.	What was the other reason you stopped working?
+10.	Time
+
+
+
+
+
+
