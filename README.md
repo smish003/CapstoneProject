@@ -1,7 +1,7 @@
 # CapstoneProject
 ## Submitted By: Swati Mishra
 
-# <ins>Insights in Cancer Data: The Power of Analysis </ins>
+# <ins>Analysis of Cancer Services, Financial Burden, and the effects of the Covid-19 disruptions in Healthcare </ins>
 
 # Summary
 
@@ -23,6 +23,9 @@ In my research study I would be analyzing some of the hospitals present in Calif
 
 # System Architecture
 The system architecture that needs to be followed to is listed below:
+
+![image](https://user-images.githubusercontent.com/89666159/235035720-c443a96f-fe53-4acb-82cf-e0ec31d753b6.png)
+
 
 
 # Overview of the Project Phases and Dataset
@@ -62,6 +65,11 @@ The system architecture that needs to be followed to is listed below:
  * **Phase-9(Global Burden of Disease):**
  
      *This dataset consists of information about 30 years of data with the goal of providing timely, valid, and relevant assessments of critical health outcomes. It will be interesting to analyze the data with respect to 5 -10 years for all the health outcomes versus cancer disease. The dataset is obtained from Global Health Data Exchange (commonly known as GHDx). The Institute for Health Metrics and Evaluation's GHDx database compiles statistics on population health around the world (IHME). IHME is a non-profit research organization dedicated to finding the most effective ways to create a healthy society.*
+     
+ * **Phase-10(An Analysis of Cancer Data in the United States):**
+ 
+     *The dataset was collected from the American Cancer Society portal and contains information on cancer incidence and mortality rates in the United States for the year 2023. It provides estimates for the number of new cancer cases and deaths by cancer type and gender. The dataset also includes cancer incidence rates from 2015-2019 and death rates from 2016-2020 based on cancer type, ethnicity, and age group. Furthermore, it includes historical data on cancer death rates by gender from 1930-2020. In addition, the dataset contains data on the probability of developing cancer from 2017-2019, as well as cancer mortality rates from the same time period. Finally, it includes information on cancer survival rates for different cancer types based on stages from 2012-2018.*
+     Note - *American Cancer Society portal which states that "In 2023 in the U.S., there will be an estimated 1,958,310 new cancer cases and 609,820 cancer deaths.* [American Cancer Society](https://cancerstatisticscenter.cancer.org)
      
   # Data Cleaning
   
