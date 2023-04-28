@@ -361,7 +361,7 @@ To begin analyzing the above data, the dataset was first cleaned using Open Ref
 
 The tableau dashboards are presented in the images below:
 
-![image](https://user-images.githubusercontent.com/89666159/235048333-0ab0ae28-8c36-4b04-a8ec-8e41cb4e3ad1.png)
+![image](https://user-images.githubusercontent.com/89666159/235051146-b0c2a237-47a9-488d-8220-1ebe26615f7f.png)
 
 *The dashboard above shows the number of various cancer cases in California counties that are classified using the ICD-9 according to various cancer types. The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.
 While validating the map it was been observed that not all cancer types surgeries were performed in all the counties during 2019-2020.Furthermore, it was been observed that,compared to other counties in California, Los Angeles was the hub where the majority of surgeries for all cancer types were performed.
@@ -370,26 +370,53 @@ While validating the map it was been observed that not all cancer types surgerie
 ICD-9 cases refer to cases or diagnoses that are classified using the ICD-9 coding system. In medical research and clinical practice, ICD-9 codes are used to identify and track specific medical conditions, procedures, and treatments.*
 
 ![image](https://user-images.githubusercontent.com/89666159/235048372-e3d0d9dc-cde1-47c0-816d-e0cf9241f4a5.png)
-*The dashboard above shows the number of various cancer cases in California counties that are classified using the ICD-10 according to various cancer types. The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.
-While validating the map it was been observed that not all cancer types surgeries were performed in all the counties during 2019-2020.Furthermore, it has been observed that, compared to other counties in California, Los Angeles was the hub where the majority of surgeries for all cancer types were performed.
 
-**Note:** *ICD-10 is refered as an International Classification of Diseases, 10th revision which is a coding system used to classify and code diagnoses, symptoms, and procedures related to medical conditions. ICD-10 codes replaced ICD-9 codes in the United States on October 1, 2015.ICD-10 cases refer to cases or diagnoses that are classified using the ICD-10 coding system. In medical research and clinical practice, ICD-10 codes are used to identify and track specific medical conditions, procedures, and treatments. The ICD-10 system provides more detail and specificity compared to the ICD-9 system, allowing for more accurate tracking and analysis of medical conditions.
+*The dashboard above shows the number of various cancer cases in California counties that are classified using the ICD-10 according to various cancer types. The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.
+While validating the map it was been observed that not all cancer types surgeries were performed in all the counties during 2019-2020.Furthermore, it has been observed that, compared to other counties in California, Los Angeles was the hub where the majority of surgeries for all cancer types were performed.*
+
+**Note:** *ICD-10 is refered as an International Classification of Diseases, 10th revision which is a coding system used to classify and code diagnoses, symptoms, and procedures related to medical conditions. ICD-10 codes replaced ICD-9 codes in the United States on October 1, 2015.ICD-10 cases refer to cases or diagnoses that are classified using the ICD-10 coding system. In medical research and clinical practice, ICD-10 codes are used to identify and track specific medical conditions, procedures, and treatments. The ICD-10 system provides more detail and specificity compared to the ICD-9 system, allowing for more accurate tracking and analysis of medical conditions.*
 
 
 ![image](https://user-images.githubusercontent.com/89666159/235051052-ca43a915-f19e-4524-9088-3ac39d53b043.png)
 
 
-![image](https://user-images.githubusercontent.com/89666159/235046828-328d2266-8e18-432f-abf1-357ad1145b99.png)
+*The stacked bar chart presented above illustrates the evaluation of cancer surgery facilities based on cancer type in different California Counties.The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.*
+
+![image](https://user-images.githubusercontent.com/89666159/235051880-34d0ac8a-4c1f-4995-a80e-559d33f92d11.png)
+
+
+*The above dashboard exhibits the historical trend of cancer surgeries that have been performed between 2013 and 2021, including both actual data and estimated forecasts.*
 
 ![image](https://user-images.githubusercontent.com/89666159/235046843-cce7b9f2-157a-4856-bc0f-a66811ca49d5.png)
 
+*The graph presented above displays an exploration of discharge counts across various segments, including* ***Admission Type, Age, Expected Payer, Primary Diagnosis, Race/Ethinicity Group, Sex*** *Each segment is further broken down into sub-categories for more detailed analysis.*
+
 ![image](https://user-images.githubusercontent.com/89666159/235046892-532f55d6-4d24-4e28-adf3-80b47c4f87dc.png)
+
+*The table above illustrates the Differences Between All Discharges, AMA Discharges, and Repeated AMA Discharges about the Patients Leaving California Hospitals Against Medical Advice (AMA).The table can be accessed dynamically.*
 
 ![image](https://user-images.githubusercontent.com/89666159/235046936-0a8c4320-f418-4de2-9f0f-d43c749c8c90.png)
 
+*The above dashboard is designed to check different types of designated hospital in California for Fiscal-Year 2019-2020.*
+
+Below is a list of designated/non-designated hospitals in California along with their respective frequency counts.
+* Designated NICU by Department of Health Care Services
+* Designated Public Hospital by Department of Health Care Services
+* Non-Designated Public Hospital by Department of Health Care Services
+* Designated Remoted Rural Hospital by Department of Health Care Services
+* Designated Rural Hospital by Department of Health Care Services
+
+Upon analyzing the values in the above chart, it was discovered that the majority of the designated hospitals were categorized as rural hospitals by the Department of Health Care Services with respect to other categories.
+
 ![image](https://user-images.githubusercontent.com/89666159/235046958-26402fe7-44a7-477a-87c4-d97d15fa8c18.png)
 
+*The bubble chart featured in the above dashboard provides information regarding OSHPD provider names and their counts in California. It is evident from the chart ***Kaiser Foundation Hospital*** *has the highest number of hospitals.*
+
+**Note:** *OSHPD (Office of Statewide Health Planning and Development) is a state agency in California responsible for collecting, analyzing, and disseminating health care data. In California, OSHPD providers refer to healthcare facilities that are licensed or certified by OSHPD, including hospitals, nursing homes, hospices, and clinics. OSHPD collects data from these facilities and uses it to develop healthcare policies and programs, as well as to monitor healthcare trends and outcomes across the state.*
+
 ![image](https://user-images.githubusercontent.com/89666159/235047004-0b0437c5-6f63-4b4a-829d-c172eb390e63.png)
+
+*The table present above shows different factors contributing to the characteristics of California hospital based on different OSHPD provider.The dashboard allows for dynamic changes to the OSHPD provider value, facilitating the examination of values across different factors.*
 
 
 
