@@ -605,4 +605,58 @@ From a business standpoint, healthcare businesses and organizations engaged in c
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Mapping the Burden of Cancer: A State-by-State Analysis of Cancer Incidence and Mortality in the US
+
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+The tableau dashboards are presented in the images below:
+
+![image](https://user-images.githubusercontent.com/89666159/235086812-3ba623b3-7608-4de8-9af7-65ee80bfa214.png)
+
+*The presented dashboard above provides information on the estimated new cases and estimated death cases for different cancer types in 2023, categorized by gender. Upon analysis of the graphs, it can be observed that approximately 54.291% of males are at risk of developing cancer. Furthermore, it was noted that most of the cancer cases are related to the genital system, with males having a higher incidence rate. In terms of mortality, the estimated rate for males is 52.586%, which is higher compared to females. Additionally, the majority of deaths may occur due to lung and bronchus cancer.*
+
+![image](https://user-images.githubusercontent.com/89666159/235086847-f2aa35d1-23ff-4f08-b305-f2e3c0f4af38.png)
+
+*The above dashboard presents a map of the United States with projected new cases and deaths due to cancer across different states. This interactive map can be accessed dynamically to obtain the counts for each state.*
+
+![image](https://user-images.githubusercontent.com/89666159/235086885-9637a1a8-ac78-4e66-84e6-a6a140748aeb.png)
+
+*The dashboard above presents a bubble chart that provides an estimation of the counts of different cancer types based on estimated cases and estimated deaths.*
+
+![image](https://user-images.githubusercontent.com/89666159/235086916-e77103b5-3e41-40c4-b142-29967e9b1e34.png)
+
+*The presented dashboard above provides an analysis of cancer incidence rates from 2015-2019, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer incidence rates correspond to breast cancer, with the highest rates observed in the Non-Hispanic Black group.
+
+![image](https://user-images.githubusercontent.com/89666159/235086955-90dd92aa-bc44-45a7-b73d-9f459abf4d02.png)
+
+*The presented dashboard provides a comparison of cancer incidence rates across different US states and cancer types from 2015-2019. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.*
+
+![image](https://user-images.githubusercontent.com/89666159/235086997-97d1cf1f-d138-4dd5-a721-3e40a07df071.png)
+
+*The presented dashboard above provides an analysis of cancer death rates from 2016-2020, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer death rates correspond to Lung and Bronchs, with the highest rates observed in the Non-Hispanic Black group.*
+
+![image](https://user-images.githubusercontent.com/89666159/235087026-cdf1ba0d-f8f4-45b3-b65b-fbcb31567c8c.png)
+
+*The presented dashboard provides a comparison of cancer death rates across different US states and cancer types from 2016-2020. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.*
+
+![image](https://user-images.githubusercontent.com/89666159/235087048-b4ac9513-4982-4a8c-a3d3-939c2b97f978.png)
+
+* 
+
+![image](https://user-images.githubusercontent.com/89666159/235087071-82075113-bc91-419d-972b-4d242e797f8c.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235087105-512d7075-5feb-4d8a-bff9-ab19e7185012.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235087168-672da80f-9fe0-4235-92b2-a7959b6a0156.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235087199-d17b7424-905a-4fb9-9061-38d3de4eecc6.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235087228-5d11e8a2-ac0d-4182-8ac3-9bc7206b4eda.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235087264-69699ae4-fe73-47cc-98e8-6acecf99b29e.png)
+
+
+
+
+
 
