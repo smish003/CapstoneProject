@@ -519,7 +519,35 @@ The tableau dashboards are presented in the images below:
 
 *The dashboard above displays the in-hospital mortality trends by secondary diagnosis type and health categories, with a focus on Primary, Secondary (COVID-19 not Primary), and Secondary (COVID-19 Primary) diagnosis types across Ambulatory Surgery, Inpatient Discharges, and Emergency Department settings.In addition to this, the trend graph also compares the in-hospital mortality rates based on cancer and COVID-19 to provide a closer analysis of the mortality rate related to cancer.*
 
+The presented dashboards offer a wealth of information for healthcare professionals and business stakeholders to monitor and analyze hospital utilization and in-hospital mortality trends. By providing a detailed breakdown of patient encounters across different health categories and settings, the dashboards offer a comprehensive understanding of healthcare demand in various regions. The mortality trends analysis helps to identify leading causes of death and their distribution across different diagnosis types and settings. Additionally, the comparison of in-hospital mortality rates related to cancer and COVID-19 provides valuable insights into the mortality rate in different health categories. These insights can be used to optimize healthcare operations and improve patient outcomes, ultimately benefiting both patients and healthcare providers.
+
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/EffectsofCOVID-19onHospitalUtilizationTrendsHospitalUtilizationTrends/EffectsofCOVID-19onHospitalUtilizationTrendsHospitalUtilizationTrends?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Geographic Analysis of Advanced Stage Breast Cancer in Women 40 Years and Older: A Study of Medical Service Study Areas and California Counties from 2010-2014
+
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+The tableau dashboards are presented in the images below:
+
+![image](https://user-images.githubusercontent.com/89666159/235073317-8a67320e-7f8e-4f39-a47c-e54437d9e924.png)
+
+*The dashboard above presents the data on advanced stage breast cancer in women aged 40 years and older in Medical Service Study Areas (MSSA) and California counties between 2010 and 2014. The data shows that around 136,092 breast cancer cases were registered in California counties during that period. These cases were further subcategorized based on designations such as Frontier, Rural, and Urban, with the majority of breast cancer cases being observed in the Urban designation. Using the county filter, we can examine breast cancer cases in each county corresponding to its respective MSSA.Moreover, to gain more insights into the cases, they were further distributed among ethnic groups, where it was observed that the majority of breast cancer cases fell under the White ethnic group, followed by the Hispanic group.*
+
+![image](https://user-images.githubusercontent.com/89666159/235073448-ce392c67-1d6c-45d5-b9df-0e73ba614651.png)
+
+*The dashboard above displays a map of California counties along with their population between 2010-2014, categorized based on different designations such as Rural, Urban, and Frontier.*
+
+![image](https://user-images.githubusercontent.com/89666159/235073498-c2d470b3-cffc-477f-a749-54ceef9599f0.png)
+
+*The dashboard above presents the distribution of expected and observed numbers of breast cancer cases in different California counties. It can be observed that the majority of breast cancer cases correspond to Los Angeles county.*
+
+![image](https://user-images.githubusercontent.com/89666159/235073558-3cc6f1d5-4c8e-4932-b2bb-f50ddce943b1.png)
+
+*The dashboard above presents the total numbers of breast cancer cases in different California counties. It can be observed that the majority of breast cancer cases correspond to Los Angeles county
+
+In conclusion, the presented dashboards provide a comprehensive overview of advanced stage breast cancer in women aged 40 years and older in California counties between 2010 and 2014. The data suggests that breast cancer cases are predominantly observed in the Urban designation, and the White ethnic group has the highest number of cases. The dashboards also allow for a deeper understanding of breast cancer cases in different California counties, with Los Angeles county having the highest number of cases. This information can be used by healthcare professionals and governing authorities to allocate resources and develop targeted interventions to address the issue of breast cancer in California.
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/GeographicAnalysisofAdvancedStageBreastCancerinWomen40YearsandOlderAStudyofMedicalServiceStudyAreasandCaliforniaCountiesfrom2010-2014/AdvancedStageBreastCanceramongWomen40YearsandOlderbyMedicalServiceStudyAreaMSSAandbyCaliforniaCounties2010-2014?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
