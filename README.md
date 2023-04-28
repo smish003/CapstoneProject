@@ -351,12 +351,53 @@ To begin with data analysis,all the above mentioned dataset was first cleaned u
 * **Worksheet -**  *It contains a single view along with shelves, cards, legends, and the Data and Analytics panes in its side bar.*
 * **Dashboard -**  *It is a collection of views from multiple worksheets. The Dashboard and Layout panes are available in its side bar.*
 * **Story -** *A story contains a sequence of worksheets or dashboards that work together to convey information.* 
-* 
+
+
 ### An Analysis of California Hospitals: Cancer Surgery Volume, Hospital Characteristics, and Patients Leaving Against Medical Advice (AMA) in Fiscal Year 2019-20
 
 **Note -** *Above analysis was carried out using a combination of Phase-1, Phase-2, and Phase-3.*
 
 To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+The tableau dashboards are presented in the images below:
+
+![image](https://user-images.githubusercontent.com/89666159/235048333-0ab0ae28-8c36-4b04-a8ec-8e41cb4e3ad1.png)
+
+*The dashboard above shows the number of various cancer cases in California counties that are classified using the ICD-9 according to various cancer types. The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.
+While validating the map it was been observed that not all cancer types surgeries were performed in all the counties during 2019-2020.Furthermore, it was been observed that,compared to other counties in California, Los Angeles was the hub where the majority of surgeries for all cancer types were performed.
+
+**Note:** *ICD-9 is refered as an International Classification of Diseases, 9th revision which is a coding system used to classify and code diagnoses, symptoms, and procedures related to medical conditions. ICD-9 codes were used extensively in the United States until October 1, 2015, when they were replaced by ICD-10 codes.
+ICD-9 cases refer to cases or diagnoses that are classified using the ICD-9 coding system. In medical research and clinical practice, ICD-9 codes are used to identify and track specific medical conditions, procedures, and treatments.*
+
+![image](https://user-images.githubusercontent.com/89666159/235048372-e3d0d9dc-cde1-47c0-816d-e0cf9241f4a5.png)
+*The dashboard above shows the number of various cancer cases in California counties that are classified using the ICD-10 according to various cancer types. The visualization is accessible in real time, and values for various counties and cancer operation types can be verified using the legend located on the right side.
+While validating the map it was been observed that not all cancer types surgeries were performed in all the counties during 2019-2020.Furthermore, it has been observed that, compared to other counties in California, Los Angeles was the hub where the majority of surgeries for all cancer types were performed.
+
+**Note:** *ICD-10 is refered as an International Classification of Diseases, 10th revision which is a coding system used to classify and code diagnoses, symptoms, and procedures related to medical conditions. ICD-10 codes replaced ICD-9 codes in the United States on October 1, 2015.ICD-10 cases refer to cases or diagnoses that are classified using the ICD-10 coding system. In medical research and clinical practice, ICD-10 codes are used to identify and track specific medical conditions, procedures, and treatments. The ICD-10 system provides more detail and specificity compared to the ICD-9 system, allowing for more accurate tracking and analysis of medical conditions.
+
+
+![image](https://user-images.githubusercontent.com/89666159/235051052-ca43a915-f19e-4524-9088-3ac39d53b043.png)
+
+
+![image](https://user-images.githubusercontent.com/89666159/235046828-328d2266-8e18-432f-abf1-357ad1145b99.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235046843-cce7b9f2-157a-4856-bc0f-a66811ca49d5.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235046892-532f55d6-4d24-4e28-adf3-80b47c4f87dc.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235046936-0a8c4320-f418-4de2-9f0f-d43c749c8c90.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235046958-26402fe7-44a7-477a-87c4-d97d15fa8c18.png)
+
+![image](https://user-images.githubusercontent.com/89666159/235047004-0b0437c5-6f63-4b4a-829d-c172eb390e63.png)
+
+
+
+
+
+
+
+
 
 
 
