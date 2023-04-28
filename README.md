@@ -659,6 +659,9 @@ The presented dashboard provides a comparison of cancer death rates across diffe
 * **Localised:** *Localized cancer stage refers to cancer that is confined to the site where it first developed and has not spread to nearby lymph nodes, tissues, or organs. This is typically classified as Stage I cancer, and it is generally considered to be the earliest and most treatable stage of cancer.*
 * **Distant:** *Distant cancer stages, also known as metastatic cancer, refers to cancer that has spread from the site where it first developed to distant organs or tissues in the body. This is typically classified as Stage IV cancer, and it is often the most advanced and difficult to treat stage of cancer. *
 
+The presented dashboards offer insightful data on cancer trends and statistics that healthcare organizations, pharmaceutical firms, and insurance companies can use to create preventative, treatment, and coverage plans. The use of these dashboards can also help identify regions with high cancer incidence or mortality rates, allowing resources to be allocated to meet the needs of impacted communities. Additionally, companies in the healthcare sector can use this information to spot potential openings for the study and creation of novel therapies and treatments. The knowledge obtained from these dashboards can eventually lead to improved healthcare outcomes for cancer patients and communities.
+
+
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/AnticipatingtheBurdenofCancerin2023ProjectionsforNewCasesandImpactonPatientsandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
