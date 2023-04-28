@@ -549,8 +549,37 @@ In conclusion, the presented dashboards provide a comprehensive overview of adva
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/GeographicAnalysisofAdvancedStageBreastCancerinWomen40YearsandOlderAStudyofMedicalServiceStudyAreasandCaliforniaCountiesfrom2010-2014/AdvancedStageBreastCanceramongWomen40YearsandOlderbyMedicalServiceStudyAreaMSSAandbyCaliforniaCounties2010-2014?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Assessing the Impact of COVID-19 on General Population Health Services: Results from a 2020 Survey
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.The dashboards were further grouped in a form of Story.
 
+The tableau dashboards are presented in the images below:
 
+![image](https://user-images.githubusercontent.com/89666159/235077789-efbf843d-569a-472a-85d9-7de6f40aff90.png)
+
+*The presented dashboard showcases the results of the 2020 survey on COVID-19 health services disruption. A total of 52,469 individuals participated in the survey and were grouped into various age categories. The data reveals that the majority of patients fall into the 16-25 age group. Additionally, the stacked bar chart indicates that most of the participants were male.*
+
+![image](https://user-images.githubusercontent.com/89666159/235077959-112467bb-6f71-4c13-9ee2-756ba023077d.png)
+
+*The presented dashboard provides insights into the factors behind workforce attrition across different countries. The analysis shows that the majority of workforce attrition is due to the desire to avoid exposure to COVID-19. Further analysis through the drill-down feature reveals that the Philippines have the highest number of workforce attrition cases attributed to avoiding exposure to COVID-19.*
+
+![image](https://user-images.githubusercontent.com/89666159/235077980-ed34f333-6c58-41a1-9370-82eff12632b4.png)
+
+*The dashboard presented above offers valuable insights for assessing the employment situation. The analysis reveals that the majority of survey participants were students, with a total of 16,001 members falling under this category. Furthermore, when analyzing the employment situation by country, it was observed that in the Philippines, most of the survey participants were employed full-time.*
+
+![image](https://user-images.githubusercontent.com/89666159/235078014-003596c6-a4e6-486c-8e06-2b4519143d2c.png)
+
+*The above dashboard provides insights to determine the geographical distribution of areas such as rural, city center or metropolitan area, and suburban/peri-urban area. Additionally, the analysis reveals the survey weights based on countries and age groups.*
+
+**Note:** Weights for the survey were calculated using the predicted probability of selection based on a representative sample. Global Burden of Disease 2020 population estimates and proportions for age, gender, and education by country were used as the representative dataset and age and education categories were mapped to Premise survey categories. Weights were calculated as the inverse of the predicted probability of selection in the sample dataset.
+Survey weights were calculated using a combined dataset of responses to the Premise General Population COVID-19 Health Services Disruption Survey 2020 and the COVID-19 Health Services Disruption Survey 2020 from ORB and IPSOS. The included survey weights are not accurate when using the Premise General Population COVID-19 Health Services Disruption Survey 2020 in isolation.
+
+![image](https://user-images.githubusercontent.com/89666159/235078135-a3cb76fd-37f6-4e6b-8b7a-37173f31ee3f.png)
+
+*The presented dashboard above displays the distribution of reasons for why participants were unable to see a health provider during December-February compared to the reasons for missing a dose of medication since March. The bar charts indicate that a majority of participants were unable to see a health provider due to lack of money during December-February, while for missing medication doses in March, the reason was unknown for many participants.*
+
+The dashboards that are shown above offer insightful data on a number of aspects of the healthcare sector and the employment situation. Businesses in the healthcare industry may find it helpful to use the data from these assessments to better understand how COVID-19 has affected patient behavior and employee attrition. According to the findings, access to healthcare is significantly hampered by a lack of financial resources; healthcare policies and plans should take this into account. Additionally, the employment-related insights might assist firms in better understanding the labor market and making knowledgeable hiring and staffing decisions.
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
