@@ -423,10 +423,26 @@ In conclusion, the numerous dashboards discussed above offer insightful informat
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/AnAnalysisofCaliforniaHospitalsCancerSurgeryVolumeHospitalCharacteristicsandPatientsLeavingAgainstMedicalAdviceAMAinFiscalYear2019-20/QuantifyingCancerSurgeryVolumesAnAnalysisofCaliforniaHospitalDatabasedonICD-09?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+### Life-Saving Cancer Treatments: A Comprehensive Guide to Approved Medications
 
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
 
+The tableau dashboards are presented in the images below:
 
+*The dashboard presented below displays the distribution of various cancer medicines that have been approved by different providers,including* ***FDA, EN, EMA, and Generic.***
+* FDA: Food and Drug Administration
+* EN:  European National Approval
+* EMA: European Medicines Agency
 
+*This information provides an overview of the different medications available for treating cancer and the regulatory bodies responsible for approving them.Users can interact with the dashboard in real-time to explore the distribution of medicines across different providers.*
+
+![image](https://user-images.githubusercontent.com/89666159/235058662-d1122894-7dc5-426c-8e35-dbec1f9adfe7.png)
+
+*The World Health Organization (WHO), a worldwide public health body, has designated a number of cancer pharmaceuticals, and the dashboard below displays these allocations together with a list of medications approved by various providers for various forms of cancer treatment. It offers a graphic depiction of the number of authorized drugs, organized according to the agency in charge of issuing the authorisation, such as FDA, EMA, EN, Generic, and WHO based on year (from 1939-2023). The distribution of cancer medications approved by multiple providers can be examined using this data, and the approval procedures of various providers can be contrasted. Additionally, it offers a thorough list of approved medications, together with information on the cancer types to which each one is matched and the provider who approved them, making it easy for users to find the specific details they need.*
+
+![image](https://user-images.githubusercontent.com/89666159/235058702-384c8543-438a-40a8-b1a6-d857a54abb54.png)
+
+In summary, the dashboard presented above provides valuable insights into the distribution of cancer medications approved by different providers, including the World Health Organization (WHO), FDA, EN, EMA, and Generic. The data is organized by year and cancer type, allowing users to explore the approval procedures of different regulatory bodies and compare the number of authorized drugs.The data in this dashboard can assist healthcare professionals and researchers in gaining a better understanding of the cancer treatment landscape and the various medications available for treating different types of cancer.
 
 
 
