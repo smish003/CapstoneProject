@@ -446,7 +446,36 @@ In summary, the dashboard presented above provides valuable insights into the di
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Understanding the Financial Burden of Cancer Care on Patients and Families
 
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+The tableau dashboards are presented in the images below:
+
+![image](https://user-images.githubusercontent.com/89666159/235060600-5b45c34d-d2f8-4217-9a77-77e33a4721ed.png)
+
+*The dashboard presented above displays estimates of national expenditures for cancer care in billions of dollars, broken down by cancer site for 2015 and 2020. Analysis of the graphs reveals that a significant proportion of the expenditures is attributed to Breast Cancer in comparison to other types of cancer. The distribution charts highlight that Breast Cancer accounted for the highest national expenditure of approximately 15.49% in 2015 and around 15.22% in 2020. These findings provide valuable insights into the economic burden of cancer care, and the prominence of Breast Cancer in the allocation of healthcare resources.*
+
+
+![image](https://user-images.githubusercontent.com/89666159/235060639-6827290b-cc03-4ab9-83fc-0313491d23ef.png)
+
+*Estimates of medical services connected to cancer care in billions of dollars, broken down by cancer location, are shown in the dashboard above for the years 2015 and 2020. When compared to other types of cancer, analysis of the graphs shows that a sizeable share of the expenses are related to breast cancer. According to the distribution charts, Breast Cancer will continue to account for the biggest percentage of medical services (23.66% in 2015 and about 23.03% in 2020). These findings provide important light on the financial costs associated with cancer treatment and the predominance of breast cancer in the distribution of healthcare resources.*
+
+![image](https://user-images.githubusercontent.com/89666159/235060671-8d68f4b2-5e25-4136-bc93-ffe102e17460.png)
+
+*Estimates of Prescription Drug connected to cancer care in billions of dollars, broken down by cancer location, are shown in the dashboard above for the years 2015 and 2020. When compared to other types of cancer, analysis of the graphs shows that a sizeable share of the expenses are related to breast cancer. According to the distribution charts, Breast Cancer will continue to account for the biggest percentage of medical services (23.66% in 2015 and about 23.03% in 2020). These findings provide important light on the financial costs associated with cancer treatment and the predominance of breast cancer in the distribution of healthcare resources.*
+
+![image](https://user-images.githubusercontent.com/89666159/235060710-a98a7cc8-ca3a-4d58-bea7-ae586f1bed53.png)
+
+*The dashboard presented above displays the Cancer Costs by Site and Phase of Care from 2007-2013 Annualized Per-Patient Expenses in 2020 USD. It provides information about the expenses incurred in different phases of care, including Continuing Care, Initial Care, and Last year of life, for various cancer sites. The bar chart indicates that the majority of the expenses are related to Myeloma cancer, as compared to other cancer sites. Interestingly, the chart also shows that Acute Myeloid Leukemia accounts for the same expense in both Initial Care and Last year of life phases.*
+
+![image](https://user-images.githubusercontent.com/89666159/235060747-21005f4f-82e9-45fa-bd69-7b8365913043.png)
+
+*The dashboard above shows the annualized per-patient costs for drugs for cancer from 2007 to 2013 by site and phase of care. It details the costs incurred throughout various stages of care, such as initial care, continuing care, and last year of life, for various cancer sites. Compared to other cancer sites, the bar chart shows that Myeloma cancer-related charges account for the majority of costs. Intriguingly, the graph demonstrates that the cost for Acute Myeloid Leukemia is the same in both the Initial Care and Last Year of Life stages.*
+
+The dashboards above provide insightful information about the costs of cancer treatment while emphasizing the predominance of breast cancer in the distribution of healthcare funds. They also include details on the costs incurred at various stages of care for various cancer sites, illuminating the financial burden of cancer therapy. 
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/UnderstandingtheFinancialBurdenofCancerCareonPatientsandFamilies/ForCancerCare?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
