@@ -444,8 +444,7 @@ The tableau dashboards are presented in the images below:
 
 In summary, the dashboard presented above provides valuable insights into the distribution of cancer medications approved by different providers, including the World Health Organization (WHO), FDA, EN, EMA, and Generic. The data is organized by year and cancer type, allowing users to explore the approval procedures of different regulatory bodies and compare the number of authorized drugs.The data in this dashboard can assist healthcare professionals and researchers in gaining a better understanding of the cancer treatment landscape and the various medications available for treating different types of cancer.
 
-
-
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
