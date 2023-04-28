@@ -631,4 +631,36 @@ The tableau dashboards are presented in the images below:
 
 *The presented dashboard provides a comparison of cancer incidence rates across different US states and cancer types from 2015-2019. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.*
 
-![image](https://user-images.githubusercontent.com/89666159/235086997-97d1cf1f-d138-4dd5-a721-3e40a07df071.png)
+![image](https://user-images.githubusercontent.com/89666159/235095031-78fa2aaa-ecef-4077-b865-81c0688d8dbb.png)
+
+*The presented dashboard above provides an analysis of cancer death rates from 2016-2020, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer death rates correspond to Lung and Bronchs, with the highest rates observed in the Non-Hispanic Black group.*
+
+![image](https://user-images.githubusercontent.com/89666159/235095145-127ab35d-1839-4837-886b-3fc06175ea4d.png)
+
+The presented dashboard provides a comparison of cancer death rates across different US states and cancer types from 2016-2020. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.
+
+![image](https://user-images.githubusercontent.com/89666159/235096297-c39f4b4f-43f7-4f80-9b6c-2c237487600e.png)
+
+*The dashboard displayed above allows for an analysis of historical trends in cancer death rates from 1930-2020, with a breakdown by cancer type and gender. Interactive maps and charts are utilized to present the data, and users can access specific information for each state and cancer type in real-time.*
+
+![image](https://user-images.githubusercontent.com/89666159/235096376-a3515c96-5ef7-440f-849c-e21a75561281.png)
+
+*The above dashboard evaluates data pertaining to cancer risk based on cancer type and age group, specifically the probability of developing cancer from 2017-2019. The accompanying bar graph highlights that breast cancer has the highest probability among other cancer types. Additionally, when considering age, individuals aged 70+ years have the highest likelihood of developing prostate cancer, which is approximately 55.26%.*
+
+![image](https://user-images.githubusercontent.com/89666159/235096592-0da0d006-4a6a-43ae-8c04-98091cd264f5.png)
+
+*The above dashboard evaluates data pertaining to cancer mortality risk based on cancer type and age group from 2017-2019. The accompanying bar graph highlights that lungs and bronchus has the highest mortality probability among other cancer types. Additionally, when considering age, individuals aged 70+ years have the highest likelihood of dying due to lungs and bronchus cancer, which is approximately 74.89%.*
+
+![image](https://user-images.githubusercontent.com/89666159/235097399-6ba2c7c5-9f16-4f76-b3f6-f804a8f01272.png)
+
+*The dashboard displayed above analyzes the survival rates of various types of cancer from 2012-2018, with a breakdown by different stages. The accompanying graph indicates that the survival rate is highest for Thyroid cancer as compared to other types of cancer. Furthermore, Hodgkin lymphoma demonstrates a higher survival rate across all stages of the disease.*
+
+* **Regional:** *Regional cancer stages refer to the extent to which cancer has spread from its original site to nearby lymph nodes, tissues, and organs.This stage is determined by medical professionals through a variety of diagnostic tests, such as imaging scans and biopsies. In general, regional cancer is classified as Stage II or III, depending on the extent of spread beyond the initial site of the cancer.*
+* **Localised:** *Localized cancer stage refers to cancer that is confined to the site where it first developed and has not spread to nearby lymph nodes, tissues, or organs. This is typically classified as Stage I cancer, and it is generally considered to be the earliest and most treatable stage of cancer.*
+* **Distant:** *Distant cancer stages, also known as metastatic cancer, refers to cancer that has spread from the site where it first developed to distant organs or tissues in the body. This is typically classified as Stage IV cancer, and it is often the most advanced and difficult to treat stage of cancer. *
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/AnticipatingtheBurdenofCancerin2023ProjectionsforNewCasesandImpactonPatientsandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
+
