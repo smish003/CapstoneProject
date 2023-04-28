@@ -420,7 +420,7 @@ Below is a list of designated/non-designated hospitals in California along with 
 
 In conclusion, the numerous dashboards discussed above offer insightful information about cancer cases, procedures, and healthcare facilities in California. The cancer case maps for ICD-9 and ICD-10 show that Los Angeles has the greatest percentage of surgery for all cancer kinds and that not all cancer procedures are carried out in all counties. The stacked bar graph makes it possible to compare the types of cancer surgical centers in various California counties. Additionally, from 2013 to 2021, the historical trend dashboard displays the development of cancer surgeries along with projected estimates. Lastly, the bubble chart lists OSHPD providers and their numbers in California, showing that Kaiser Foundation Hospital has the most hospitals. Overall, the information provided by these visualizations is helpful for healthcare practitioners and the general public.
 
-
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/AnAnalysisofCaliforniaHospitalsCancerSurgeryVolumeHospitalCharacteristicsandPatientsLeavingAgainstMedicalAdviceAMAinFiscalYear2019-20/QuantifyingCancerSurgeryVolumesAnAnalysisofCaliforniaHospitalDatabasedonICD-09?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
