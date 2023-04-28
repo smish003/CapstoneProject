@@ -1,8 +1,8 @@
 ## Table of Content
 
 1. [Summary](https://github.com/smish003/CapstoneProject/blob/main/Report.md#analysis-of-cancer-services-financial-burden-and-the-effects-of-the-covid-19-disruptions-in-healthcare-)
-2. [Motivation](https://github.com/smish003/CapstoneProject/blob/main/Report.md#analysis-of-cancer-services-financial-burden-and-the-effects-of-the-covid-19-disruptions-in-healthcare-)
-3. [System Architecture](https://github.com/smish003/CapstoneProject/blob/main/Report.md#analysis-of-cancer-services-financial-burden-and-the-effects-of-the-covid-19-disruptions-in-healthcare-)
+2. [Motivation](https://github.com/smish003/CapstoneProject/blob/main/Report.md#motivation)
+3. [System Architecture](https://github.com/smish003/CapstoneProject/blob/main/Report.md#system-architecture)
 4. [Overview of the Project Phases and Dataset](https://github.com/smish003/CapstoneProject/blob/main/Report.md#overview-of-the-project-phases-and-dataset)
 5. [Data Cleaning](https://github.com/smish003/CapstoneProject/blob/main/Report.md#data-cleaning)
     * [Phase-1 (Number of Cancer Surgeries (Volume) Performed in California Hospitals)](https://github.com/smish003/CapstoneProject/blob/main/Report.md#phase-1-number-of-cancer-surgeries-volume-performed-in-california-hospitals)
