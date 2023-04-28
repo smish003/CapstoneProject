@@ -664,6 +664,27 @@ The presented dashboards offer insightful data on cancer trends and statistics t
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/AnticipatingtheBurdenofCancerin2023ProjectionsforNewCasesandImpactonPatientsandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+# Tableau Dashbaord Links
+* [An Analysis of California Hospitals: Cancer Surgery Volume, Hospital Characteristics, and Patients Leaving Against Medical Advice (AMA) in Fiscal Year 2019-20](https://public.tableau.com/views/AnAnalysisofCaliforniaHospitalsCancerSurgeryVolumeHospitalCharacteristicsandPatientsLeavingAgainstMedicalAdviceAMAinFiscalYear2019-20/ExploringCancerSurgeryPatternsandDistributionAnAnalysisofProcedureCountsandPercentageDistributionbyFactorssuchasAgeGenderandCancerType?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Life-Saving Cancer Treatments: A Comprehensive Guide to Approved Medications](https://public.tableau.com/views/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Understanding the Financial Burden of Cancer Care on Patients and Families](https://public.tableau.com/views/UnderstandingtheFinancialBurdenofCancerCareonPatientsandFamilies/ForCancerCare?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Effects of COVID-19 on Hospital Utilization Trends: Hospital Utilization Trends](https://public.tableau.com/views/EffectsofCOVID-19onHospitalUtilizationTrendsHospitalUtilizationTrends/EffectsofCOVID-19onHospitalUtilizationTrendsIn-HospitalMortalityTrendsbySecondaryDiagnosis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Geographic Analysis of Advanced Stage Breast Cancer in Women 40 Years and Older: A Study of Medical Service Study Areas and California Counties from 2010-2014](https://public.tableau.com/views/GeographicAnalysisofAdvancedStageBreastCancerinWomen40YearsandOlderAStudyofMedicalServiceStudyAreasandCaliforniaCountiesfrom2010-2014/TotalNumberofCancerCasesAcrossVariousCountiesinCalifornia?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Assessing the Impact of COVID-19 on General Population Health Services: Results from a 2020 Survey](https://public.tableau.com/views/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Mapping the Burden of Cancer: A State-by-State Analysis of Cancer Incidence and Mortality in the US](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/CancerDeathRates2016-2020AcrossUsStatesandCancerTypes?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+# References
+* https://ghdx.healthdata.org
+* https://data.chhs.ca.gov
+* https://hints.cancer.gov
+* https://data.cdc.gov
+* https://www.anticancerfund.org/
+* https://seer.cancer.gov/
+* https://cancerstatisticscenter.cancer.org/
+* https://progressreport.cancer.gov/
+* https://cdphdata.maps.arcgis.com/apps/webappviewer/index.html?id=8612fd4394784bdea7b0bdca5e34fc2e
+* https://www.tableau.com/
+
 
 
 
