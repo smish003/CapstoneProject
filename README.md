@@ -581,9 +581,28 @@ The dashboards that are shown above offer insightful data on a number of aspects
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey/AssessingtheImpactofCOVID-19onGeneralPopulationHealthServicesResultsfroma2020Survey?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### The Global Burden of Cancer: Understanding the Impact on Health and Society
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
 
+The tableau dashboards are presented in the images below:
 
+![image](https://user-images.githubusercontent.com/89666159/235082529-2194fdf6-9922-4474-b7c0-94d08d456a0b.png)
+*The presented dashboard above provides insights into the global burden of cancer, which can aid in understanding its impact on health and society. The total number of cancer cases globally is approximately 5,314,217,450. In order to perform a drill-down analysis to find cancer patients within specific age groups, it was observed from the bar chart that the majority of cancer cases were observed in the age group of 20+, with the majority falling between the ages of 25+ to less than 70 years. Furthermore, gender disparities in total cancer cases were examined worldwide, where it was observed that females encounter most of the cases.*
 
+![image](https://user-images.githubusercontent.com/89666159/235082568-5f5d5012-e3e1-475b-b919-2a2585c27433.png)
 
+*The dashboard above offers valuable insights into the global burden of cancer, specifically providing information on the counts of different types of cancer. From the data presented, it was observed that Non-Melanoma skin cancer had the highest number of cases, followed by colon and rectum cancer. Additionally, the cases were categorized based on different regions for further analysis in which it was found that most of the cancer incidence were encountered in Asia.*
+
+![image](https://user-images.githubusercontent.com/89666159/235082601-177f4c40-2c3d-437d-b38a-0d3ee8f196a9.png)
+
+*The presented dashboard provides an analysis of cancer-related mortality cases in 2019, with a total of 208,477,841 deaths reported globally. The gender distribution chart highlights that the majority of deaths were reported among males worldwide. Additionally, the analysis of mortality cases by age group reveals that most of the deaths occurred in individuals aged 20 years and above, with a higher incidence observed between the age group of 25+ years to 55+ years.*
+
+![image](https://user-images.githubusercontent.com/89666159/235082645-afeea3ea-da2d-4b44-9145-3d65f61217a3.png)
+
+*The dashboard presented above offers insights into cancer-related mortality cases in 2019, highlighting various cancer types across different regions. The map visualization indicates that most of the patients died due to Tracheal, Bronchus, and Lung cancer followed by Breast cancer. The mortality rates were further analyzed based on the geographical distribution of cases, revealing that the highest number of deaths occurred in Asia.*
+
+From a business standpoint, healthcare businesses and organizations engaged in cancer research and treatment may find the data offered by these dashboards to be essential. The information can be used to build specialized treatment regimens and preventative measures by assisting in the understanding of the prevalence and distribution of various cancer types across a range of geographic areas and demographic groups. Additionally, knowledge of cancer-related fatality cases can aid businesses and organizations in concentrating their efforts on lowering the fatality rate and enhancing patient outcomes. In general, enterprises and organizations engaged in the fight against cancer may greatly benefit from the information provided in these dashboards.
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
