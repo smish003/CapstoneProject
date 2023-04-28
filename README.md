@@ -625,38 +625,10 @@ The tableau dashboards are presented in the images below:
 
 ![image](https://user-images.githubusercontent.com/89666159/235086916-e77103b5-3e41-40c4-b142-29967e9b1e34.png)
 
-*The presented dashboard above provides an analysis of cancer incidence rates from 2015-2019, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer incidence rates correspond to breast cancer, with the highest rates observed in the Non-Hispanic Black group.
+*The presented dashboard above provides an analysis of cancer incidence rates from 2015-2019, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer incidence rates correspond to breast cancer, with the highest rates observed in the Non-Hispanic Black group.*
 
 ![image](https://user-images.githubusercontent.com/89666159/235086955-90dd92aa-bc44-45a7-b73d-9f459abf4d02.png)
 
 *The presented dashboard provides a comparison of cancer incidence rates across different US states and cancer types from 2015-2019. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.*
 
 ![image](https://user-images.githubusercontent.com/89666159/235086997-97d1cf1f-d138-4dd5-a721-3e40a07df071.png)
-
-*The presented dashboard above provides an analysis of cancer death rates from 2016-2020, categorized by cancer type, ethnicity, and gender. From the graphs presented, it is evident that the majority of cancer death rates correspond to Lung and Bronchs, with the highest rates observed in the Non-Hispanic Black group.*
-
-![image](https://user-images.githubusercontent.com/89666159/235087026-cdf1ba0d-f8f4-45b3-b65b-fbcb31567c8c.png)
-
-*The presented dashboard provides a comparison of cancer death rates across different US states and cancer types from 2016-2020. The data is displayed through interactive maps and charts, which can be accessed dynamically to obtain specific information for each state and cancer type.*
-
-![image](https://user-images.githubusercontent.com/89666159/235087048-b4ac9513-4982-4a8c-a3d3-939c2b97f978.png)
-
-* 
-
-![image](https://user-images.githubusercontent.com/89666159/235087071-82075113-bc91-419d-972b-4d242e797f8c.png)
-
-![image](https://user-images.githubusercontent.com/89666159/235087105-512d7075-5feb-4d8a-bff9-ab19e7185012.png)
-
-![image](https://user-images.githubusercontent.com/89666159/235087168-672da80f-9fe0-4235-92b2-a7959b6a0156.png)
-
-![image](https://user-images.githubusercontent.com/89666159/235087199-d17b7424-905a-4fb9-9061-38d3de4eecc6.png)
-
-![image](https://user-images.githubusercontent.com/89666159/235087228-5d11e8a2-ac0d-4182-8ac3-9bc7206b4eda.png)
-
-![image](https://user-images.githubusercontent.com/89666159/235087264-69699ae4-fe73-47cc-98e8-6acecf99b29e.png)
-
-
-
-
-
-
