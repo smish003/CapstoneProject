@@ -338,6 +338,10 @@ Removing unwanted column:
 9.	What was the other reason you stopped working?
 10.	Time
 
+### Phase-9(Global Burden of Disease)
+
+In this phase, No data cleaning was required as the data collected was already in an appropriate format and contained no inconsistencies, redundancies, or irrelevant data. Therefore, the data was suitable for the research study, and there was no need for any additional data cleaning.Moreover, it ensures that the research study is founded on dependable and precise data, resulting in more resilient and reliable research outcomes.
+
 ### Phase-10(An Analysis of Cancer Data in the United States)
 
 In this phase, the dataset was cleaned using Microsoft Excel, as the only necessary modifications were reorganizing and restructuring the data for the purpose of the study.
