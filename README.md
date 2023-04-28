@@ -69,7 +69,8 @@ The system architecture that needs to be followed to is listed below:
  * **Phase-10(An Analysis of Cancer Data in the United States):**
  
      *The dataset was collected from the American Cancer Society portal and contains information on cancer incidence and mortality rates in the United States for the year 2023. It provides estimates for the number of new cancer cases and deaths by cancer type and gender. The dataset also includes cancer incidence rates from 2015-2019 and death rates from 2016-2020 based on cancer type, ethnicity, and age group. Furthermore, it includes historical data on cancer death rates by gender from 1930-2020. In addition, the dataset contains data on the probability of developing cancer from 2017-2019, as well as cancer mortality rates from the same time period. Finally, it includes information on cancer survival rates for different cancer types based on stages from 2012-2018.*
-     Note - *American Cancer Society portal which states that "In 2023 in the U.S., there will be an estimated 1,958,310 new cancer cases and 609,820 cancer deaths.* [American Cancer Society](https://cancerstatisticscenter.cancer.org)
+     
+**Note -** *American Cancer Society portal which states that "In 2023 in the U.S., there will be an estimated 1,958,310 new cancer cases and 609,820 cancer deaths.* [American Cancer Society](https://cancerstatisticscenter.cancer.org)
      
   # Data Cleaning
   
@@ -336,6 +337,35 @@ Removing unwanted column:
 8.	What was the other reason you missed a dose of your medication since March?
 9.	What was the other reason you stopped working?
 10.	Time
+
+### Phase-10(An Analysis of Cancer Data in the United States)
+
+In this phase, the dataset was cleaned using Microsoft Excel, as the only necessary modifications were reorganizing and restructuring the data for the purpose of the study.
+
+ # Data Analysis
+
+Data analysis is the methodical process of looking at and evaluating data with the intention of finding pertinent facts and insights that can guide decision-making.For firms trying to make data-driven decisions that can help them function more effectively and efficiently in today's business environment, data analysis is essential. Businesses can learn more about consumer behavior, market trends, operational inefficiencies, and other elements that affect their performance and bottom line by studying data. Utilizing this data can help businesses run more profitably, increase customer satisfaction, enhance product and service quality, and optimize operations. Organizations can make better judgments based on evidence rather than intuition with the aid of data analysis.
+
+To begin with data analysis,all the above mentioned dataset was first cleaned using Open Refine.  Once the data was cleaned, it was uploaded to Tableau using the ***Connect to Data*** option and selecting ***Microsoft Excel*** as the file type. Several worksheets was been made to examine each dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+**Tableau**  *uses a workbook and sheet file structure, much like Microsoft Excel. A workbook contains sheets. A sheet can be a worksheet, a dashboard, or a story.*
+* **Worksheet -**  *It contains a single view along with shelves, cards, legends, and the Data and Analytics panes in its side bar.*
+* **Dashboard -**  *It is a collection of views from multiple worksheets. The Dashboard and Layout panes are available in its side bar.*
+* **Story -** *A story contains a sequence of worksheets or dashboards that work together to convey information.* 
+* 
+### An Analysis of California Hospitals: Cancer Surgery Volume, Hospital Characteristics, and Patients Leaving Against Medical Advice (AMA) in Fiscal Year 2019-20
+
+**Note -** *Above analysis was carried out using a combination of Phase-1, Phase-2, and Phase-3.*
+
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+
+
+
+
+
+
+
+
 
 
 
