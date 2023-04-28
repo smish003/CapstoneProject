@@ -477,6 +477,52 @@ The dashboards above provide insightful information about the costs of cancer tr
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/UnderstandingtheFinancialBurdenofCancerCareonPatientsandFamilies/ForCancerCare?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+### Effects of COVID-19 on Hospital Utilization Trends: Hospital Utilization Trends
+
+To begin analyzing the above data, the dataset was first cleaned using Open Refine and then uploaded to Tableau using Connect to Data Option and choosing  ***Microsoft Excel*** as a File Type. Several worksheets had been made to examine the dataset once it had been successfully uploaded, and it was then merged into a dashboard which consists of several worksheets.
+
+The tableau dashboards are presented in the images below:
+
+![image](https://user-images.githubusercontent.com/89666159/235066914-0871beee-f548-4444-b95c-f4a90cb3215c.png)
+
+*The presented dashboard illustrates various hospital utilization trends across different settings, including "Inpatient Discharges, Emergency Dept, Ambulatory Surgery," and years. The data suggests that there were approximately 68,759,676 patients in total who were encountered across 471 hospital facilities. To gain more insights, the patient count has been further divided monthly. Furthermore, the dashboard highlights that Emergency Dept Setting accounted for about 66.8% of the total patient count, and its historical trend can be observed by utilizing the legend on the right.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064450-fe589513-240b-484a-b9a7-e5b6e265514b.png)
+
+*The above dashboard presents hospital utilization trends across various health categories and settings, such as Inpatient Discharges, Emergency Dept, and Ambulatory Surgery, for different years. The data reveals that there were around 69,206,748 patients who were encountered in total. Further analysis was conducted by breaking down the patient encounters based on health category and settings. The findings indicate that Kaiser Foundation Hospital has the highest number of patients, the majority of whom are in the Emergency Dept setting. Additionally, the dashboard tracks patient encounters across various health categories over time.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064486-50867c1a-4394-47a0-8d44-28bf8c8bc45c.png)
+
+*The dashboard above displays the trends of in-hospital mortality based on health categories and years. The data indicates that there were roughly 1,635,819 cases of mortality. To provide more insights, the distribution of mortality cases was analysed based on different health categories. Additionally, the table contains the total count of deaths that occurred monthly, based on the year. The bar chart indicates that hypertension is the leading cause of death, with the highest death rate compared to other causes. Additionally, the table values are filtered by year, and it shows the variation in death cases due to COVID-19 since April 2020.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064535-0f59e61c-749d-4b77-b986-5c5e3914497b.png)
+
+*The presented dashboard provides an overview of in-hospital mortality trends by health categories and years. Further analysis of mortality cases based on health categories was conducted to gain more insights. Additionally, the trend graph depicts the mortality rate based on health categories and settings year-wise. A notable peak is observed in January 2021, where pneumonia cases accounted for the highest number of deaths at 16,930.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064573-74a562a3-175f-42cb-af45-5e1f04ce1cb0.png)
+
+*The dashboard above presents a trend graph that shows the mortality rate based on health categories and settings year-wise. The trend graph is then compared to the trends in in-hospital mortality based on cancer and COVID-19 to provide a closer analysis of the mortality rate related to cancer.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064619-6fa13250-c2dd-433b-be30-5927cca9929c.png)
+
+*The presented dashboard illustrates the in-hospital mortality trends by diagnosis type and year. According to the data, there were approximately 1,008,936 cases of in-hospital deaths. To gain more insights, the distribution of mortality cases was analyzed based on different diagnosis types which include Primary, Secondary (COVID-19 not Primary), and Secondary (COVID-19 Primary). Further analysis was also done based on different settings. To provide a more detailed picture, the in-hospital death count has been divided monthly-wise.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064667-eeca6ff3-4f95-4251-84fa-22c49297f6ca.png)
+
+*The dashboard above showcases the trends of in-hospital mortality by diagnosis type and health categories. For deeper insights, the distribution of mortality cases was analyzed based on different diagnosis types, including Primary, Secondary (COVID-19 not Primary), and Secondary (COVID-19 Primary), and settings, which include Ambulatory Surgery, Inpatient Discharges, and Emergency Department. Furthermore, the bar chart clearly indicates that the majority of the mortality cases were encountered under the Secondary (COVID-19 not Primary) diagnosis category with an Inpatient Discharge setting.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064712-a237ee37-df0b-4daf-bfd3-ce56d3a7cea4.png)
+
+*The above dashboard displays the trends of in-hospital mortality by secondary diagnosis type and year. The data shows that there were around 835,960 in-hospital deaths. To provide deeper insights, the distribution of mortality cases was analyzed based on different secondary diagnosis types, such as Secondary (COVID-19 not Primary) and Secondary (COVID-19 Primary), as well as settings, such as Ambulatory Surgery, Inpatient Discharges, and Emergency Department. Moreover, the table contains information about the total number of in-hospital deaths based on a monthly basis for a particular year.*
+
+![image](https://user-images.githubusercontent.com/89666159/235064784-9f6ec4c3-47b2-4e8c-a309-2e825013d75a.png)
+
+*The dashboard above displays the in-hospital mortality trends by secondary diagnosis type and health categories, with a focus on Primary, Secondary (COVID-19 not Primary), and Secondary (COVID-19 Primary) diagnosis types across Ambulatory Surgery, Inpatient Discharges, and Emergency Department settings.In addition to this, the trend graph also compares the in-hospital mortality rates based on cancer and COVID-19 to provide a closer analysis of the mortality rate related to cancer.*
+
+The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/EffectsofCOVID-19onHospitalUtilizationTrendsHospitalUtilizationTrends/EffectsofCOVID-19onHospitalUtilizationTrendsHospitalUtilizationTrends?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
 
 
 
