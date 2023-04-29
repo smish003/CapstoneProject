@@ -25,7 +25,8 @@
     * [The Global Burden of Cancer: Understanding the Impact on Health and Society](https://github.com/smish003/CapstoneProject/blob/main/Report.md#the-global-burden-of-cancer-understanding-the-impact-on-health-and-society)
     * [Mapping the Burden of Cancer: A State-by-State Analysis of Cancer Incidence and Mortality in the US](https://github.com/smish003/CapstoneProject/blob/main/Report.md#mapping-the-burden-of-cancer-a-state-by-state-analysis-of-cancer-incidence-and-mortality-in-the-us)
 8.  [Tableau Dashbaord Links](https://github.com/smish003/CapstoneProject/blob/main/Report.md#tableau-dashbaord-links)
-9.  [References](https://github.com/smish003/CapstoneProject/blob/main/Report.md#references)
+9.  [Project Presentation](https://github.com/smish003/CapstoneProject/edit/main/Report.md#project-presentation)
+10.  [References](https://github.com/smish003/CapstoneProject/blob/main/Report.md#references)
 
   
     
