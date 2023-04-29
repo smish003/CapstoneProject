@@ -670,7 +670,7 @@ The presented dashboards offer insightful data on cancer trends and statistics t
 
 The entire dashboard for the above visualization can be accessed [here](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/AnticipatingtheBurdenofCancerin2023ProjectionsforNewCasesandImpactonPatientsandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-# Tableau Dashbaord Links
+# Tableau Dashboard Links
 * [An Analysis of California Hospitals: Cancer Surgery Volume, Hospital Characteristics, and Patients Leaving Against Medical Advice (AMA) in Fiscal Year 2019-20](https://public.tableau.com/views/AnAnalysisofCaliforniaHospitalsCancerSurgeryVolumeHospitalCharacteristicsandPatientsLeavingAgainstMedicalAdviceAMAinFiscalYear2019-20/ExploringCancerSurgeryPatternsandDistributionAnAnalysisofProcedureCountsandPercentageDistributionbyFactorssuchasAgeGenderandCancerType?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Life-Saving Cancer Treatments: A Comprehensive Guide to Approved Medications](https://public.tableau.com/views/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications/Life-SavingCancerTreatmentsAComprehensiveGuidetoApprovedMedications?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Understanding the Financial Burden of Cancer Care on Patients and Families](https://public.tableau.com/views/UnderstandingtheFinancialBurdenofCancerCareonPatientsandFamilies/ForCancerCare?:language=en-US&:display_count=n&:origin=viz_share_link)
