@@ -1,4 +1,6 @@
-# CapstoneProject
+# DASC - 690 Data Science Capstone Project
+## Submitted On- April 28th, 2023
+## Faculty Advisor - Dr. Faryaneh Poursardar
 ## Submitted By: Swati Mishra
 
 # <ins>Analysis of Cancer Services, Financial Burden, and the effects of the Covid-19 disruptions in Healthcare </ins>
@@ -678,6 +680,9 @@ The entire dashboard for the above visualization can be accessed [here](https://
 * [The Global Burden of Cancer: Understanding the Impact on Health and Society](https://public.tableau.com/views/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety/TheGlobalBurdenofCancerUnderstandingtheImpactonHealthandSociety?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Mapping the Burden of Cancer: A State-by-State Analysis of Cancer Incidence and Mortality in the US](https://public.tableau.com/views/MappingtheBurdenofCancerAState-by-StateAnalysisofCancerIncidenceandMortalityintheUS/CancerDeathRates2016-2020AcrossUsStatesandCancerTypes?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+# Project Presentation
+
+To access the project presentation, simply click [here](https://github.com/smish003/CapstoneProject/blob/main/Project%20Presentation-Swati%20Mishra.pdf)
 # References
 * https://ghdx.healthdata.org
 * https://data.chhs.ca.gov
