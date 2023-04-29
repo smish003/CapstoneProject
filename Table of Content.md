@@ -24,7 +24,7 @@
     * [Assessing the Impact of COVID-19 on General Population Health Services: Results from a 2020 Survey](https://github.com/smish003/CapstoneProject/blob/main/Report.md#assessing-the-impact-of-covid-19-on-general-population-health-services-results-from-a-2020-survey)
     * [The Global Burden of Cancer: Understanding the Impact on Health and Society](https://github.com/smish003/CapstoneProject/blob/main/Report.md#the-global-burden-of-cancer-understanding-the-impact-on-health-and-society)
     * [Mapping the Burden of Cancer: A State-by-State Analysis of Cancer Incidence and Mortality in the US](https://github.com/smish003/CapstoneProject/blob/main/Report.md#mapping-the-burden-of-cancer-a-state-by-state-analysis-of-cancer-incidence-and-mortality-in-the-us)
-8.  [Tableau Dashbaord Links](https://github.com/smish003/CapstoneProject/blob/main/Report.md#tableau-dashbaord-links)
+8.  [Tableau Dashboard Links](https://github.com/smish003/CapstoneProject/blob/main/Report.md#tableau-dashbaord-links)
 9.  [Project Presentation](https://github.com/smish003/CapstoneProject/blob/main/Report.md#project-presentation)
 10.  [References](https://github.com/smish003/CapstoneProject/blob/main/Report.md#references)
 
