@@ -683,6 +683,8 @@ The entire dashboard for the above visualization can be accessed [here](https://
 # Project Presentation
 
 To access the project presentation, simply click [here](https://github.com/smish003/CapstoneProject/blob/main/Project%20Presentation-Swati%20Mishra.pdf)
+
+Presentation Recording can be accessed [here](https://drive.google.com/file/d/135Wuo_qILzYvURFnBhWwfKhrdT5TQs8Z/view?usp=sharing)
 # References
 * https://ghdx.healthdata.org
 * https://data.chhs.ca.gov
